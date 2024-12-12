@@ -2,7 +2,7 @@ import unittest
 import os
 
 # 假设要测试的文件夹路径
-TEST_DIRECTORY = 'C:\ProgramData\Jenkins\.jenkins\workspace'
+TEST_DIRECTORY = 'C:\ProgramData\Jenkins\.jenkins\workspace\ceshi'
 
 # 文件测试类
 class TestFiles(unittest.TestCase):
